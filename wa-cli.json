@@ -1,0 +1,15 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/codebyoketch/wa-cli/releases/download/v0.1.2/wa-cli_0.1.2_windows_amd64.zip",
+            "bin": [
+                "wa.exe"
+            ],
+            "hash": "ae6b6be9b722fba5a2d68e8d62b9a8ca781939242dd395dcd41d90693be68492"
+        }
+    },
+    "homepage": "https://github.com/codebyoketch/wa-cli",
+    "license": "MIT",
+    "description": "A WhatsApp client for your terminal, built on whatsmeow"
+}
