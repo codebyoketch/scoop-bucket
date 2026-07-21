@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/codebyoketch/wa-cli/releases/download/v0.1.2/wa-cli_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/codebyoketch/wa-cli/releases/download/v0.1.3/wa-cli_0.1.3_windows_amd64.zip",
             "bin": [
                 "wa.exe"
             ],
-            "hash": "ae6b6be9b722fba5a2d68e8d62b9a8ca781939242dd395dcd41d90693be68492"
+            "hash": "f92bd060fddd9dce73d0c1183f0db3ee4a538895e4f2b7515afa804632c840c6"
         }
     },
     "homepage": "https://github.com/codebyoketch/wa-cli",
